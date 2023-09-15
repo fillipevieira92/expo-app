@@ -3,7 +3,7 @@ import { Text } from 'react-native'
 
 function FirstComponent() {
   return (
-    <Text>FirstComponent</Text>    
+    <Text>Hello World!</Text>    
   )
 }
 
